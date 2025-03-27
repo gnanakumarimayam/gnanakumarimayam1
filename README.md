@@ -20,7 +20,7 @@
       <td>Imayam Arts and Science College</td>
     </tr>
     <tr>
-      <th>Year :3 Rd Year</th>
+      <th>Year :2nd Year</th>
       <td>Bachelor of Computer Application</td>
     </tr>
     <tr>
